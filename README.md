@@ -54,7 +54,7 @@ Sales transaction management provides detailed information about completed trans
 
 Inventory management helps businesses monitor stock levels and stock movements across their operations.
 
-![Inventory](screenshots/inventory.png)
+![Inventory](screenshots/inventory.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Inventory management helps businesses monitor stock levels and stock movements a
 
 The stock opname module helps users compare physical inventory with system records and make necessary stock adjustments.
 
-![Stock Opname](screenshots/stock-opname.png)
+![Stock Opname](screenshots/stock-opname.jpg)
 
 ---
 
